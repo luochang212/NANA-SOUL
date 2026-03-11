@@ -1,3 +1,7 @@
+# macOS
+.DS_Store
+.idea
+
 # 忽略训练输出的 checkpoint 文件夹
 output/
 v3-*/
