@@ -1,4 +1,4 @@
-# NANA-SFT
+# NANA-SOUL
 
 使用小松奈奈的 SFT 数据，为 OpenClaw 生成：
 
